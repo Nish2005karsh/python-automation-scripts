@@ -31,16 +31,16 @@ These scripts are simple yet powerful, perfect for learning or boosting producti
 ## 🚀 Getting Started
 
 1. **Clone the repo**
-   ```bash
+```bash
    git clone https://github.com/Nish2005karsh/python-automation-scripts.git
    cd python-automation-scripts
 ```
 2. **Install dependencies**
-   ```bash
+```bash
    pip install -r requirements.txt
 ```
 3. **Run the scripts**
-   ```bash
+```bash
    python summarize.py
 ```
 
