@@ -25,6 +25,9 @@ These scripts are simple yet powerful, perfect for learning or boosting producti
 | `audio.py`           | Converts text to speech                                           |
 | `replace.py`         | Find-and-replace words across multiple files                      |
 | `bulk.py`            | Performs bulk renaming of files                                   |
+| `tasks.py`           | CLI Task Manager                                                  |
+| `terminal.py`        | Makes your terminal interesting                                   |
+| `tracker.py`         | Matplotlib sleep cycles                                           |
 
 ---
 
