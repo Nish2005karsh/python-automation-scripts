@@ -1,0 +1,13 @@
+PyPDF2
+pytesseract
+pillow
+opencv-python
+numpy
+speedtest-cli
+requests
+bs4
+gTTS
+playsound
+openai
+smtplib
+schedule
