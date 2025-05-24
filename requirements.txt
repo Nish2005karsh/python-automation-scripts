@@ -11,3 +11,7 @@ playsound
 openai
 smtplib
 schedule
+pyfiglet
+rich
+tqdm
+
