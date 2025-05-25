@@ -29,6 +29,7 @@ These scripts are simple yet powerful, perfect for learning or boosting producti
 | `terminal.py`        | Makes your terminal interesting                                   |
 | `tracker.py`         | Matplotlib sleep cycles                                           |
 | `static_dashboard.py`| Static python dashboard using rich                                |
+| `dynamic_dashboard.py`| Dynamic  python dashboard using rich.live                        |
 
 ---
 
