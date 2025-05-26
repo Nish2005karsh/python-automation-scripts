@@ -30,6 +30,7 @@ These scripts are simple yet powerful, perfect for learning or boosting producti
 | `tracker.py`         | Matplotlib sleep cycles                                           |
 | `static_dashboard.py`| Static python dashboard using rich                                |
 | `dynamic_dashboard.py`| Dynamic  python dashboard using rich.live                        |
+| `dynaweather.py      `| Dynamic weather dashboard using rich                             |
 
 ---
 
