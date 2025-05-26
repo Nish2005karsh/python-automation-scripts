@@ -33,7 +33,7 @@ def get_weather(city, api_key):
         return None
 
 def main():
-    api_key = "22241afd6cdcad89fd343d045e478ecc"
+    api_key = "YOURKEYHERE"
 
     city = prompt("Enter city name: ", completer=completer)
     if not city:
