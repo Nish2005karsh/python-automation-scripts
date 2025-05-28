@@ -31,6 +31,7 @@ These scripts are simple yet powerful, perfect for learning or boosting producti
 | `static_dashboard.py`| Static python dashboard using rich                                |
 | `dynamic_dashboard.py`| Dynamic  python dashboard using rich.live                        |
 | `dynaweather.py      `| Dynamic weather dashboard using rich                             |
+| `my_dash_app.py      `| Interactive dashboard using dash nand plotly                      |
 
 ---
 
