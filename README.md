@@ -32,6 +32,7 @@ These scripts are simple yet powerful, perfect for learning or boosting producti
 | `dynamic_dashboard.py`| Dynamic  python dashboard using rich.live                        |
 | `dynaweather.py      `| Dynamic weather dashboard using rich                             |
 | `my_dash_app.py      `| Interactive dashboard using dash and plotly                      |
+| `typespeed.py      `  | Calculating your typin sppeedd                                   |
 
 ---
 
